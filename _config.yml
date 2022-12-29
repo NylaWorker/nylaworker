@@ -4,7 +4,7 @@ description: "From the Andes to the Silicon Valley: Nyla's Journey in AI, Comput
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/MVM-logo-full.svg"
+logo: "/assets/img/logo_llama.png"
 logo-icon: "/assets/img/logo_llama.png"
 logo-icon-SEO: "/assets/img/logo_llama.png" # must be a non SVG file
 
