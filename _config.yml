@@ -3,7 +3,7 @@ title: Nyla Worker
 description: "From the Andes to the Silicon Valley: Nyla's Journey in AI, Computer Vision, and Robotics" # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nylaworker.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/logo_llama.png"
 logo-icon: "/assets/img/logo_llama.png"
 logo-icon-SEO: "/assets/img/logo_llama.png" # must be a non SVG file
@@ -25,28 +25,19 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Nyla Worker
-author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+author-pic: "/assets/img/nyla.jpg"
+about-author: Trying to automate things that we don't want to do anyway. 
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
+email: nyla.worker@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
+website: https://nylaworker.com # Add your website
+linkedin: nyla-worker # Add your Linkedin handle
+github: nylaworker # Add your Github handle
+twitter: '@nylaworker' # Add your Twitter handle
 
-# Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
-
-# Disqus
-discus_identifier: amaynez-github-io # Add your discus identifier
-comments_curtain: yes # leave empty to show the disqus embed directly
-
-# Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
+# Podcast
+spotify: "https://open.spotify.com/show/2w87roNmymBl9LfdZCmWqO?si=3bac888a9d8647eb"
 
 # Paginate
 paginate: 6
