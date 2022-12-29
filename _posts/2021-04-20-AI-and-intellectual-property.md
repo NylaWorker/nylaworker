@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Here are things I have written or that have been written about me"
+title: "Writing"
 date: 2021-04-20
 img: posts/20210420/post8-rembrandt.jpg
 tags: [simulation, robotics, synthetic data, artificial intelligence]
