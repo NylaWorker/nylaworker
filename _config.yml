@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Nyla Worker
-author-pic: "/assets/img/nyla.jpg"
+author-pic: "nyla.jpg"
 about-author: Trying to automate things that we don't want to do anyway. 
 
 # Contact links
