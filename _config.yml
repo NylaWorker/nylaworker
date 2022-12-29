@@ -1,5 +1,5 @@
 # Site settings
-title: Nyla Worker
+title: 'Nyla Worker'
 description: 'From the Andes to the Silicon Valley: Nyla's Journey in AI, Computer Vision, and Robotics' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
