@@ -11,6 +11,10 @@ description: "Opportunities where I spoke about AI or Synthetic data"
 ---
 ## Webinars 
 
+[Using NVIDIA Pre-Trained Models and Transfer Learning Toolkit 3.0 to Create Gesture-Based Interactions with a Robot](https://www.nvidia.com/en-us/about-nvidia/webinar-portal/)
+
+
+[ADDING AI INTO NEXT-GEN ROBOTS WITH NVIDIA ISAAC SDK](https://info.nvidia.com/add-ai-to-robots-isaacSDK-webinar-reg-page.html?ncid=so-link-52037&sfdcid=EMLA&ondemandrgt=yes#cid=emla_so-link_en-us)
 
 
 ## Livestreams 
@@ -41,3 +45,5 @@ Taught [Fundatmentals of Deep Learning](https://www.nvidia.com/en-us/training/in
 
 Co-created and taught [Generate Synthetic Data Using Omniverse Replicator for Perception Models
 ](https://www.nvidia.com/en-us/on-demand/session/gtcfall22-dlit41768/?playlistId=playList-108242b0-35ac-4765-9796-d6961cb026c4)
+
+Invited as a lecturer to Northeastern University to speak about optimizing models to run at the edge.
