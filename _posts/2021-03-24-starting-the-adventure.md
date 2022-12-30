@@ -37,6 +37,7 @@ At Snorkel AI's conference: "Leveraging Synthetic Data to Train Perception Model
 
 ## Courses 
 
-Taught [https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/](Fundatmentals of Deep Learning] at the Deep learning institute of Deep Learning from NVIDIA.
+Taught [Fundatmentals of Deep Learning](https://www.nvidia.com/en-us/training/instructor-led-workshops/fundamentals-of-deep-learning/) at the Deep learning institute of Deep Learning from NVIDIA.
 
-Co-created and taught Replicator Deep Learning institute
+Co-created and taught [Generate Synthetic Data Using Omniverse Replicator for Perception Models
+](https://www.nvidia.com/en-us/on-demand/session/gtcfall22-dlit41768/?playlistId=playList-108242b0-35ac-4765-9796-d6961cb026c4)
