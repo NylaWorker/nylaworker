@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Public speaking"
 date:  2022-12-29 16:11:00 -0600
-img: assets/img/public_speaking.png
+img: public_speaking.png
 tags: [public speaking,  synthetic data, ai]
 author: Nyla Worker
 description: "Opportunities where I spoke about AI or Synthetic data"
