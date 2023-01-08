@@ -29,7 +29,7 @@ Livestream on Discord about Synthetic data
 
 Participated as a panelist at lightning DevCon
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tgS4sJ38myg&list=PLaMu-SDt_RB47KO4odNNqFFJBDjSdywJG&index=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgS4sJ38myg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 At Snorkel AI's conference: "Leveraging Synthetic Data to Train Perception Models using NVIDIA Omniverse Replicator" 
