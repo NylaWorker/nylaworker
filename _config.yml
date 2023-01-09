@@ -5,6 +5,7 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nylaworker.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/logo_new.png"
+logo_symbol: "/assets/img/logo_symbol.png"
 logo-icon: "/assets/img/logo_new.png"
 logo-icon-SEO: "/assets/img/logo_new.png" # must be a non SVG file
 
