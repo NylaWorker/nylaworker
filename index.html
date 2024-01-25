@@ -1,25 +1,5 @@
----
-layout: home-page
----
-{% include calculate_relative_base.html %}
-
-<ol class="post-card-box clearfix">
-  {% for post in paginator.posts %}
-  {% include remove_double_slash.html %}
-  <li>
-    <div class="post-card">
-      <a href="{{ post_url }}" title="{{ post.title }}" class="post-card-image" style="background: url('{{ relativebase }}assets/img/{{ post.img }}') center no-repeat; background-size: cover;">
-      </a>
-      <div class="post-card-body">
-        <p class="post-card-title-and-meta">
-          
-          <a href="{{ post_url }}" class="post-card-link">
-          {{ post.title }}
-          </a>
-          {% include post_meta.html type="post-card-meta" date="none" %}
-        </p>
-      </div>
-    </div>
-  </li>
-  {% endfor %}
-</ol>
+<html>
+  <body>
+<p>Nyla Worker is the product lead at Convai, focusing on developing conversational non-player characters. Before Convai, she product-managed synthetic data generation at NVIDIA's Omniverse Replicator and honed her skills in deep learning for embedded devices. Nyla has experience accelerating eBay's image recommendation system and has conducted research at the University of Minnesota. Her expertise spans AI, product management, and deployment of AI in production systems.</p>
+  </body>
+  </html>
