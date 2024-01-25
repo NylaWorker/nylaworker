@@ -19,9 +19,8 @@ logo-icon-SEO: "/assets/img/logo_symbol.png" # must be a non SVG file
 # visit (session). Only the dark mode setting is "manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
-night_mode: "auto"
 
-logo-dark: "/assets/img/logo_llama.png"
+logo-dark: "/assets/img/logo_new.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
