@@ -4,10 +4,10 @@ description: "From the Andes to the Silicon Valley: Nyla's Journey in AI, Comput
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nylaworker.com" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/logo_llama.png"
+logo: "/assets/img/logo_new.png"
 logo_symbol: "/assets/img/logo_symbol.png"
-logo-icon: "/assets/img/logo_llama.png"
-logo-icon-SEO: "/assets/img/logo_llama.png" # must be a non SVG file
+logo-icon: "/assets/img/logo_new.png"
+logo-icon-SEO: "/assets/img/logo_symbol.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
