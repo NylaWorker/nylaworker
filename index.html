@@ -1,5 +1,18 @@
-<html>
-  <body>
-<p>Nyla Worker is the product lead at Convai, focusing on developing conversational non-player characters. Before Convai, she product-managed synthetic data generation at NVIDIA's Omniverse Replicator and honed her skills in deep learning for embedded devices. Nyla has experience accelerating eBay's image recommendation system and has conducted research at the University of Minnesota. Her expertise spans AI, product management, and deployment of AI in production systems.</p>
-  </body>
-  </html>convai4me!1
+---
+layout: default
+---
+
+<div class="home">
+  
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
