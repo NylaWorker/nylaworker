@@ -33,31 +33,31 @@ paginate: 6
 paginate_path: 'page:num'
 words_per_minute: 200
 
-# Build settings
-markdown: kramdown
-mathjax: true
-highlighter: rouge
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
+# # Build settings
+# markdown: kramdown
+# mathjax: true
+# highlighter: rouge
+# compress_html:
+#   clippings: all
+#   comments: all
+#   startings: [html, head, body]
 
-# Outputting
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# # Outputting
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-category_archive:
-  type: liquid
-  path: /categories/
+# category_archive:
+#   type: liquid
+#   path: /categories/
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-feed
+#   - jekyll-sitemap
 
-include: [_pages]
+# include: [_pages]
 
 
 # markdown: kramdown
