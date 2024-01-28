@@ -1,13 +1,77 @@
 # Site settings
-title: Nyla Worker Personal Website
-email: 
-description: "Stuff I've done"
-baseurl: ""
-url: "http://nylaworker.github.io"
-twitter_username: nyla_worker
-github_username:  NylaWorker
+title: "Nyla Worker's personal website"
+description: "Personal Website:
+permalink: ':title:output_ext'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://nylaworker.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/img/logo_new.png"
+logo_symbol: "/assets/img/logo_symbol.png"
+logo-icon: "/assets/img/logo_new.png"
+logo-icon-SEO: "/assets/img/logo_symbol.png" # must be a non SVG file
+
+# Night/Dark mode
+# Default mode is "auto", "auto" is for auto nightshift
+# (19:00 - 07:00), "manual" is for manual toggle, and
+# "on/off" is for default on/off.
+#
+# Whatever the user's choice is, it will supersede the
+# default setting of the site and be kept during the
+# visit (session). Only the dark mode setting is "manual",
+# it will be always kept on every visit (i.e. no matter
+# the browser is closed or not)
+night_mode: "auto"
+
+logo-dark: "/assets/img/logo_new.png"
+highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
+
+# Author settings
+author: Nyla Worker
+author-pic: "nyla.jpg"
+about-author: Trying to automate things that we don't want to do anyway. 
+
+# Contact links
+email: nyla.worker@gmail.com # Add your Email address
+phone: # Add your Phone number
+website: https://nylaworker.com # Add your website
+linkedin: nyla-worker # Add your Linkedin handle
+github: nylaworker # Add your Github handle
+twitter: '@nyla_worker' # Add your Twitter handle
+
+# Podcast
+spotify: "https://open.spotify.com/show/2w87roNmymBl9LfdZCmWqO?si=3bac888a9d8647eb"
+
+# Paginate
+paginate: 6
+paginate_path: 'page:num'
+words_per_minute: 200
 
 # Build settings
+markdown: kramdown
+mathjax: true
+highlighter: rouge
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+# Outputting
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+
+
 markdown: kramdown
 permalink: pretty
 
