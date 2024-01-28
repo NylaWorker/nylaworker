@@ -14,15 +14,6 @@ logo-icon-SEO: "/assets/img/logo_symbol.png" # must be a non SVG file
 # (19:00 - 07:00), "manual" is for manual toggle, and
 # "on/off" is for default on/off.
 #
-# Whatever the user's choice is, it will supersede the
-# default setting of the site and be kept during the
-# visit (session). Only the dark mode setting is "manual",
-# it will be always kept on every visit (i.e. no matter
-# the browser is closed or not)
-night_mode: "auto"
-
-logo-dark: "/assets/img/logo_new.png"
-highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
 author: Nyla Worker
@@ -36,9 +27,6 @@ website: https://nylaworker.com # Add your website
 linkedin: nyla-worker # Add your Linkedin handle
 github: nylaworker # Add your Github handle
 twitter: '@nyla_worker' # Add your Twitter handle
-
-# Podcast
-spotify: "https://open.spotify.com/show/2w87roNmymBl9LfdZCmWqO?si=3bac888a9d8647eb"
 
 # Paginate
 paginate: 6
