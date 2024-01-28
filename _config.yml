@@ -1,6 +1,6 @@
 # Site settings
 title: "Nyla Worker's personal website"
-description: "Personal Website:
+description: "Personal Website"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nylaworker.com" # the base hostname & protocol for your site, e.g. http://example.com
