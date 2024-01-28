@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Nyla Worker Personal Website
 email: 
-description: "Musings of a Computer Scientist."
+description: "Stuff I've done"
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://nylaworker.github.io"
+twitter_username: nyla_worker
+github_username:  NylaWorker
 
 # Build settings
 markdown: kramdown
